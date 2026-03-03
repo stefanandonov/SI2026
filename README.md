@@ -1,2 +1,2 @@
 # Software engineering 2026
-## Auditory exercises
+## Auditory exercises - Stefan
