@@ -1,2 +1,2 @@
 # Software engineering 2026
-## Auditory exercises - Marko
+## Auditory exercises - Marko, Stefan & Jana
